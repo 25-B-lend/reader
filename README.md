@@ -55,3 +55,11 @@ We are actively looking for help across all areas:
 1. Explore open tasks in **[Issues](https://github.com/25-B-lend/reader/issues)**.
 2. Jump into **[GitHub Discussions](https://github.com/25-B-lend/reader/discussions)** to share ideas, pitch features, or ask questions.
 3. Share the project with anyone passionate about educational and free reading access!
+
+
+##  A Note on Our Current Stage
+25(B)lend is in its early stages. Every issue and feature is meant to be discussed, challenged, and refined by the community before becoming a fixed goal.
+
+Everyone has a voice here:
+* **Refining Issues:** Share your thoughts, technical approaches, or critiques directly in the issue comments.
+* **Proposing New Ideas:** If you have an idea that isn't covered yet, feel free to open a new Issue or start a Discussion thread.
