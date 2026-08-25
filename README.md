@@ -48,7 +48,7 @@ We are actively looking for help across all areas:
 * **Educators & Translators:** Help curate open-access materials and localize the interface (i18n).
 * **Legal & IP Advisors:** Help draft copyright-compliant 1:1 lending templates for publisher outreach.
 * **UI/UX Designers:** Shape the dual-screen study interface and annotation tools.
-* **Idealisers:** Give us your idea; all are welcome and pretty much apreciated!
+* **Idealisers:** Give us your idea/s; all are welcome and pretty much apreciated!
 
 
 ### How to Get Involved
