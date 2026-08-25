@@ -48,8 +48,10 @@ We are actively looking for help across all areas:
 * **Educators & Translators:** Help curate open-access materials and localize the interface (i18n).
 * **Legal & IP Advisors:** Help draft copyright-compliant 1:1 lending templates for publisher outreach.
 * **UI/UX Designers:** Shape the dual-screen study interface and annotation tools.
+* **Idealisers:** Give us your idea; all are welcome and pretty much apreciated!
+
 
 ### How to Get Involved
-1. Explore open tasks in **[Issues](https://github.com/25-B-lend/reader/issues)** (look for the `good first issue` or `help wanted` tags).
+1. Explore open tasks in **[Issues](https://github.com/25-B-lend/reader/issues)**.
 2. Jump into **[GitHub Discussions](https://github.com/25-B-lend/reader/discussions)** to share ideas, pitch features, or ask questions.
 3. Share the project with anyone passionate about educational and free reading access!
