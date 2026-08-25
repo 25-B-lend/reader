@@ -6,7 +6,7 @@
 
 ## 1. Executive Summary & Problem Statement
 
-Educational resources have become financially prohibitive. High-demand textbooks routinely cost $40–$60 per digital edition with artificial access expirations. This pricing model forces students into a false binary:
+Educational resources have become financially prohibitive. High-demand textbooks routinely cost $25–$60 per digital edition with artificial access expirations. This pricing model forces students into a false binary:
 1. **Severe Financial Strain:** Overpaying for temporary access keys that expire at the end of a semester.
 2. **Shadow Libraries & Piracy:** Downloading unverified PDFs from illegal repositories, exposing users to security risks while providing **zero revenue** to authors and publishers.
 
