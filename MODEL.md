@@ -1,6 +1,6 @@
 #  25(B)lend — Project & Business Model
 
-> Complete architectural, legal, financial, and publisher-aligned blueprint for 25(B)lend.
+> Complete architectural, legal, financial, and publisher-aligned blueprint for 25(B)lend, as of 25.08.2026
 
 ---
 
@@ -56,5 +56,5 @@ To give publishers total confidence in digital lending, 25(B)lend replaces raw f
 
 25(B)lend is a community-owned initiative. All technical architectural choices, governance rules, and roadmap priorities are debated publicly in our [GitHub Discussions](https://github.com/25-B-lend/reader/discussions) and tracked via open [GitHub Issues](https://github.com/25-B-lend/reader/issues).
 
-## Goal
-**Empower the consumer with fair, free access to education, without degrading publishers or diminishing creator livelihoods.**
+## Goal and Constitution
+**Empower the consumer with fair, free access to books, in their most varied forms, without degrading publishers or diminishing creator livelihoods.**
