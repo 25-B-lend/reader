@@ -15,7 +15,7 @@ Educational resources have become financially prohibitive. High-demand textbooks
 
 * **Memory-Only Canvas Rendering:** Assets are decrypted strictly inside WebAssembly/Service Worker RAM and rendered directly onto an HTML5 Canvas, preventing DOM media leaks and file downloads.
 * **Strict 1:1 CDL Engine:** Mathematical enforcement guaranteeing that one acquired license equals exactly one active borrower at a time.
-* **Study Sandbox:** Side-by-side view for main textbooks (*Kursbuch*) and workbooks (*Arbeitsbuch*), synchronised audio playback, and private vector annotations.
+* **Study Sandbox:** Side-by-side view for main textbooks and workbooks, synchronised audio playback, and private vector annotations.
 * **Offline PWA Engine:** Encrypted Service Worker caching with self-expiring local decryption keys.
 * **2D Virtual Reading Room:** Lightweight 2D spatial canvas with custom avatars and library tables for real-time peer study.
 * **Accessibility Layer:** Invisible Shadow DOM fallback layer for screen readers (NVDA, JAWS, VoiceOver).
