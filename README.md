@@ -1,65 +1,108 @@
-# 25(B)lend Core Reader
-
-> Reclaiming educational access. An open-source, non-profit Controlled Digital Lending platform for textbooks.
+# 25(B)lend 
 
 ---
 
-## Our ideals:
-Modern education and reading are locked behind an unsustainable paywall. High-demand textbooks routinely cost $40–$60 per edition, while traditional libraries lack modern digital lending infrastructure for interactive courseware. This leaves students and readers trapped between financial strain and pirated PDFs, leaving publishers with zero revenue and students with zero protection.
+## 1. Executive Summary & Quick Overview
 
-**25(B)lend** is trying to bridge this gap. We are building a non-profit, zero-leak Controlled Digital Lending (CDL) web platform designed to empower learners, defend user and customer rights, and establish a sustainable, 1:1 legal model with publishers.
+Educational resources have become financially prohibitive. High-demand textbooks routinely cost $25–$60 per digital edition. **25(B)lend** is an open-source, non-profit initiative building a client-side WebAssembly reader that enforces strict 1:1 digital lending ratios while establishing sustainable, legal revenue streams for publishers.
 
----
-
-## The Plan & Roadmap
-
-* **Phase 1: Reader Engine PoC (Current)**  
-  Develop the core WebAssembly + Canvas web reader using Open Educational Resources (OER) and Creative Commons content to validate memory-only security and performance.
-* **Phase 2: Legal & Crowdfunding Engine**  
-  Finalise the transparent Open Collective financial setup and draft the 1:1 institutional licensing framework for publisher partnerships.
-* **Phase 3: Publisher Onboarding & Platform Launch**  
-  Roll out community-funded license purchases, micro-royalty tracking, and publisher store funnels alongside the dual-view study sandbox.
+> **Looking for our idea, financial, and legal strategy?**  
+> Read the complete **[`MODEL.md`](./MODEL.md)** blueprint for full details on our 150% financial reserve cap, Pixel Canvas crowdfunding, publisher value proposition, and legal compliance.
 
 ---
 
-## Core Features
-* **Memory-Only Canvas Rendering:** Dynamic page rendering via HTML5 Canvas & WebAssembly (Wasm) without exposing raw file assets to the browser DOM or local disk.
-* **Strict 1:1 CDL Ratio:** Mathematical enforcement ensuring one acquired license equals one active borrower at a time.
-* **Study Sandbox:** Side-by-side view (Textbook + Workbook), private vector annotation layers that stay in your account, and timestamp-synced audio playback.
-* **Ethical Monetisation:** Crowdfunded license pools, passive micro-royalties (pay-per-borrow), and direct publisher purchase funnels for zero wait-times.
-* **Privacy First:** Non-PII, aggregate learning analytics provided to publishers without compromising student privacy.
+## 2. Core Features & Technical Highlights
+
+* **Memory-Only Canvas Rendering:** Assets are decrypted strictly inside WebAssembly/Service Worker RAM and rendered directly onto an HTML5 Canvas, preventing DOM media leaks and file downloads.
+* **Strict 1:1 CDL Engine:** Mathematical enforcement guaranteeing that one acquired license equals exactly one active borrower at a time.
+* **Study Sandbox:** Side-by-side view for main textbooks (*Kursbuch*) and workbooks (*Arbeitsbuch*), synchronised audio playback, and private vector annotations.
+* **Offline PWA Engine:** Encrypted Service Worker caching with self-expiring local decryption keys.
+* **2D Virtual Reading Room:** Lightweight 2D spatial canvas with custom avatars and library tables for real-time peer study.
+* **Accessibility Layer:** Invisible Shadow DOM fallback layer for screen readers (NVDA, JAWS, VoiceOver).
 
 ---
 
-## Tech Stack
-* **Core Engine:** WebAssembly (Wasm) + HTML5 Canvas
-* **Offline Storage:** Encrypted Service Workers (PWA) with self-expiring decryption keys
-* **Accessibility:** Shadow DOM fallback layer for screen readers (NVDA/JAWS)
+## 3. Project Roadmap
+Phase 1: Proof of Concept (Current)
+├── WebAssembly + Canvas memory-only rendering engine
+├── Basic UI wireframes & dual-screen sandbox layout
+└── Initial OER (Open Educational Resources) test suite
+
+Phase 2: Legal, Financial & Community Infrastructure
+├── Open Collective fiscal host setup
+├── 500x500 Annual Pixel Canvas implementation
+├── Standardised 1:1 CDL Publisher Agreement Template
+└── PWA offline key-expiry mechanics
+
+Phase 3: Spatial UX & Platform Scale
+├── 2D Virtual Reading Room (WebSocket integration)
+├── Public reader release & license acquisition pilot
+└── Publisher analytics dashboard integration
 
 ---
+
+## 4. Local Development & Setup
+
+```bash
+# Clone the repository
+git clone [https://github.com/25-B-lend/reader.git](https://github.com/25-B-lend/reader.git)
+
+# Navigate into the project directory
+cd reader
+
+# Install project dependencies
+npm install
+
+# Start the local development server
+npm run dev
 
 ## Everyone is Welcome!
 
+---
+
 You don't need to be a software engineer to make a massive impact on 25(B)lend. Building an ethical alternative to textbook piracy requires educators, legal minds, designers, and students alike.
 
+
+
 We are actively looking for help across all areas:
+
 * **Developers & Security Engineers:** Help us build the Canvas rendering engine, Wasm decryption pipeline, and PWA caching.
+
 * **Students & Learners:** Test early builds, give UX feedback, and highlight high-demand titles.
+
 * **Educators & Translators:** Help curate open-access materials and localize the interface (i18n).
+
 * **Legal & IP Advisors:** Help draft copyright-compliant 1:1 lending templates for publisher outreach.
+
 * **UI/UX Designers:** Shape the dual-screen study interface and annotation tools.
+
 * **Idealisers:** Give us your idea/s; all are welcome and pretty much apreciated!
 
 
+
+
+
 ### How to Get Involved
+
 1. Explore open tasks in **[Issues](https://github.com/25-B-lend/reader/issues)**.
+
 2. Jump into **[GitHub Discussions](https://github.com/25-B-lend/reader/discussions)** to share ideas, pitch features, or ask questions.
+
 3. Share the project with anyone passionate about educational and free reading access!
 
 
+
+
+
 ##  A Note on Our Current Stage
+
 25(B)lend is in its early stages. Every issue and feature is meant to be discussed, challenged, and refined by the community before becoming a fixed goal.
 
+
+
 Everyone has a voice here:
+
 * **Refining Issues:** Share your thoughts, technical approaches, or critiques directly in the issue comments.
+
 * **Proposing New Ideas:** If you have an idea that isn't covered yet, feel free to open a new Issue or start a Discussion thread.
+
