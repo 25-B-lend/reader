@@ -22,7 +22,7 @@ Instead of fighting content creators, 25(B)lend presents publishers with a secur
 * **Piracy-to-Revenue Redirection:** Converts traffic currently lost to shadow libraries (Z-Library, Telegram) into legal, monetisation-ready library interactions.
 * **High-Intent Store Funnel ("Skip the Queue"):** When all 1to1(1:1) copies are borrowed, waitlisted users see a direct "Purchase Personal Copy" button. The platform takes **0% affiliate commission**, sending 100% of purchase revenue to the publisher/store.
 * **Multi-Stream Monetisation:** Publishers receive full-price upfront sales for perpetual institutional licenses alongside ongoing micro-royalties per borrow event.
-* **Zero-Leak Protection:** In-memory WebAssembly execution prevents file downloading, DOM scraping, and PDF redistribution—offering far stronger protection than traditional web readers.
+* **Zero-Leak Protection:** In-memory WebAssembly execution prevents file downloading, DOM scraping, and PDF redistribution. Therefore, it offers far stronger protection than traditional web readers.
 * **Upfront Liquidity & Crowdfunding:** Community pools and our annual Pixel Canvas crowdfund full perpetual license fees upfront, providing immediate financial returns for creators.
 * **Aggregate Learning Analytics:** Publishers (especially for courseware & learning materials) receive non-PII engagement metrics (e.g., chapter retention and exercise review counts) to refine future editions without tracking individual student privacy.
 
