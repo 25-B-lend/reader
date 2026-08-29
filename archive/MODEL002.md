@@ -68,6 +68,7 @@ To give publishers total confidence in digital lending, 25(B)lend replaces raw f
 * **Accessibility Base Layer:** Integrate invisible Shadow DOM fallback layer for screen readers (NVDA, JAWS, VoiceOver).
 * **Dual-View Study Sandbox:** Develop side-by-side rendering layout for textbooks and workbooks with synced audio playback.
 * **Repository Governance:** Establish complete community contributor documentation (`README.md`, `MODEL.md`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`).
+* **Starting the repository:** Starting to build up the library's repository with books in the public domain.
 
 ---
 
