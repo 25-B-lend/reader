@@ -7,7 +7,7 @@
 Educational resources have become financially prohibitive. High-demand textbooks routinely cost $25–$60 per digital edition. **25(B)lend** is an open-source, non-profit initiative building a client-side WebAssembly reader that enforces strict 1:1 digital lending ratios while establishing sustainable, legal revenue streams for publishers.
 
 > **Looking for our idea, financial, and legal strategy?**  
-> Read the complete **[`MODEL.md`](./MODEL.md)** blueprint for full details on our 150% financial reserve cap, Pixel Canvas crowdfunding, publisher value proposition, and legal compliance.
+> Read the complete **[`MODEL.md`](./MODEL.md)** for the complete blueprint 
 
 ---
 
