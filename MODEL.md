@@ -59,7 +59,7 @@ To give publishers total confidence in digital lending, 25(B)lend replaces raw f
 ---
 
 ## 5. Ideal Roadmap
----
+
 ### Phase 1: Engine Core & Technical PoC *(Current)*
 **Goal:** Validate zero-leak Wasm rendering and build the basic reading interface using Open Educational Resources (OER).
 
