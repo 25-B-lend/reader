@@ -41,25 +41,6 @@ Phase 3: Spatial UX & Platform Scale
 
 ---
 
-## 4. Local Development & Setup
-
-```bash
-# Clone the repository
-git clone [https://github.com/25-B-lend/reader.git](https://github.com/25-B-lend/reader.git)
-
-# Navigate into the project directory
-cd reader
-
-# Install project dependencies
-npm install
-
-# Start the local development server
-npm run dev
-
-## Everyone is Welcome!
-
----
-
 You don't need to be a software engineer to make a massive impact on 25(B)lend. Building an ethical alternative to textbook piracy requires educators, legal minds, designers, and students alike.
 
 
