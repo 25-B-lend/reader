@@ -50,7 +50,7 @@ To give publishers total confidence in digital lending, 25(B)lend replaces raw f
 
 ## 4. Legal Compliance & Governance
 
-* **Strict 1:1 Lending Ratio:** For every physical or perpetual digital license owned by the community pool, exactly **one user** can borrow and read the digital copy at a time.
+* **Strict 1:1 Lending Ratio:** For every physical or perpetual digital license owned by the community pool, exactly **one user** can  read the digital copy at a time.
 * **Copyright Strategy:** We operate under good-faith CDL principles. We actively seek direct publisher agreements for perpetual digital ownership rather than relying solely on fair-use exemptions.
 * **Privacy First (Non-PII):** The platform collects **zero Personally Identifiable Information (PII)**. Analytics are aggregated client-side to report usage metrics to authors without tracking student behaviour.
 * **Ethical Capital Governance:** Operations strictly adhere to the 150% financial reserve cap. Capital accumulation above 3–6 months of emergency operating costs is forbidden, triggering automatic allocations to buy book licenses (70%) and support partner literacy charities (30%).
