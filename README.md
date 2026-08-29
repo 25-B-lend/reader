@@ -22,25 +22,6 @@ Educational resources have become financially prohibitive. High-demand textbooks
 
 ---
 
-## 3. Project Roadmap
-Phase 1: Proof of Concept (Current)
-├── WebAssembly + Canvas memory-only rendering engine
-├── Basic UI wireframes & dual-screen sandbox layout
-└── Initial OER (Open Educational Resources) test suite
-
-Phase 2: Legal, Financial & Community Infrastructure
-├── Open Collective fiscal host setup
-├── 500x500 Annual Pixel Canvas implementation
-├── Standardised 1:1 CDL Publisher Agreement Template
-└── PWA offline key-expiry mechanics
-
-Phase 3: Spatial UX & Platform Scale
-├── 2D Virtual Reading Room (WebSocket integration)
-├── Public reader release & license acquisition pilot
-└── Publisher analytics dashboard integration
-
----
-
 You don't need to be a software engineer to make a massive impact on 25(B)lend. Building an ethical alternative to textbook piracy requires educators, legal minds, designers, and students alike.
 
 
