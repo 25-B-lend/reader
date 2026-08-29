@@ -30,7 +30,7 @@ Instead of fighting content creators, 25(B)lend presents publishers with a secur
 
 | Mechanism | Description | Benefit to Publisher | Benefit to Reader |
 | :--- | :--- | :--- | :--- |
-| **Crowdfunded Pools & Pixel Canvas** | Community pools raise funds via Open Collective and an annual 500×500 Pixel Canvas (€0.10/px, 10×10 blocks, frozen annually into a Founders Gallery). | Upfront full-price license sales with immediate liquidity. | Free borrowing of a community-voted book for life. |
+| **Crowdfunded Pools & Pixel Canvas** | Community pools raise funds via Open Collective and an annual 500×500 Pixel Canvas (€0.10/px, frozen annually into a Founders Gallery). | Upfront full-price license sales with immediate liquidity. | Free borrowing of a community-voted book for life. |
 | **Micro-Royalties** | Micro-payments per borrow event via grants/donations, optional non-intrusive sponsorships, or public/government funds. | Passive secondary income stream per checkout. | Sustainable library expansion and new title additions. |
 | **Direct Purchase Funnel** | Direct store purchase links embedded into waitlist screens for queue-skipping. | Instant sales conversion with 0% platform fee. | Option to skip queues legally and support authors directly. |
 | **Financial Reserve Cap & Surplus Trigger** | Operations adhere to a 150% maximum retention cap (100% base + 20% buffer + 30% emergency reserve). All excess revenue is automatically redistributed. | Transparent non-profit partner operating with long-term financial stability. | Guarantee that funds directly support education (70% surplus buys new books, 30% donated to literacy non-profits). |
