@@ -1,6 +1,6 @@
 # 25(B)lend — Project & Business Model
 
-> Complete architectural, legal, financial, and publisher-aligned blueprint for 25(B)lend, as of 29.08.2026
+> Complete architectural, legal, financial, and publisher-aligned blueprint for 25(B)lend, as of **29.08.2026**
 
 ---
 
