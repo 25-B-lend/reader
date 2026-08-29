@@ -1,6 +1,6 @@
 # 25(B)lend — Project & Business Model
 
-> Complete architectural, legal, financial, and publisher-aligned blueprint for 25(B)lend, as of 29.08.2026
+> Complete architectural, legal, financial, and publisher-aligned blueprint for 25(B)lend, as of **__29.08.2026__**
 
 ---
 
@@ -50,7 +50,7 @@ To give publishers total confidence in digital lending, 25(B)lend replaces raw f
 
 ## 4. Legal Compliance & Governance
 
-* **Strict 1:1 Lending Ratio:** For every physical or perpetual digital license owned by the community pool, exactly **one user** can read the digital copy at a time.
+* **Strict 1:1 Lending Ratio:** For every physical or perpetual digital license owned by the community pool, exactly **one user** can  read the digital copy at a time.
 * **Copyright Strategy:** We operate under good-faith CDL principles. We actively seek direct publisher agreements for perpetual digital ownership rather than relying solely on fair-use exemptions.
 * **Privacy First (Non-PII):** The platform collects **zero Personally Identifiable Information (PII)**. Analytics are aggregated client-side to report usage metrics to authors without tracking student behaviour.
 * **Ethical Capital Governance:** Operations strictly adhere to the 150% financial reserve cap. Capital accumulation above 3–6 months of emergency operating costs is forbidden, triggering automatic allocations to buy book licenses (70%) and support partner literacy charities (30%).
@@ -58,7 +58,52 @@ To give publishers total confidence in digital lending, 25(B)lend replaces raw f
 
 ---
 
-## 5. Community & Decision Making
+## 5. Ideal Roadmap
+
+### Phase 1: Engine Core & Technical PoC *(Current)*
+**Goal:** Validate zero-leak Wasm rendering and build the basic reading interface using Open Educational Resources (OER).
+
+* **Core Wasm Engine:** Implement client-side dynamic page decryption inside WebAssembly and Service Worker RAM.
+* **Canvas Renderer:** Build a memory-only HTML5 Canvas drawing pipeline (zero unencrypted blobs or media URLs exposed to DOM).
+* **Accessibility Base Layer:** Integrate invisible Shadow DOM fallback layer for screen readers (NVDA, JAWS, VoiceOver).
+* **Dual-View Study Sandbox:** Develop side-by-side rendering layout for textbooks and workbooks with synced audio playback.
+* **Repository Governance:** Establish complete community contributor documentation (`README.md`, `MODEL.md`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`).
+
+---
+
+### Phase 2: Financial, Legal & Community Infrastructure
+**Goal:** Deploy transparent non-profit funding mechanics and standardise publisher-friendly CDL contracts.
+
+* **Open Collective Host:** Set up transparent fiscal hosting and public ledger tracking.
+* **Annual Pixel Canvas (500×500):** Launch the 250,000-pixel crowdfunding grid (€0.10/px in 10×10 blocks) with automated annual archiving to the Founders Gallery.
+* **Surplus Logic Automation:** Code open ledger triggers enforcing the 150% financial reserve cap and automatic redistribution (70% book licenses / 30% literacy charities).
+* **Standardized 1:1 CDL Templates:** Draft copyright-compliant publisher agreements guaranteeing technical 1:1 lending ratios.
+* **Offline PWA Security:** Implement Service Worker local caching with 24-hour self-expiring decryption keys.
+
+---
+
+### Phase 3: Spatial UX & Public Beta Launch
+**Goal:** Introduce community study features and launch the first public book lending pilot.
+
+* **2D Virtual Reading Room:** Implement WebSocket-powered spatial study canvas featuring customizable 2D avatars, focus desks, and peer study tables (2–8 seats).
+* **Publisher Direct-Store Funnel:** Integrate "Skip the Queue / Buy Copy" referral links on waitlist screens with 0% platform commission.
+* **Annotated Vector Layer:** Add private, local account drawing and note-taking overlays across canvas frames.
+* **Public Pilot Launch:** Deploy first library pool containing community-voted OER and licensed educational titles.
+
+---
+
+### Phase 4: Publisher Integration & NGO Formalisation
+**Goal:** Transition platform governance into a registered non-profit NGO and scale institutional adoption.
+
+* **Publisher Analytics Dashboard:** Deploy privacy-focused, non-PII aggregate telemetry (chapter retention, exercise review metrics) for content creators.
+* **Institutional API:** Build secure connector protocols for university and municipal library software (ILS/LMS integration).
+* **NGO Formalisation:** Establish legal non-profit entity status governed by open-source community bylaws.
+* **Global License Pools:** Expand the perpetual digital license acquisitions.
+
+
+
+
+## 6. Community & Decision Making
 
 25(B)lend is a community-owned initiative. All technical architectural choices, governance rules, and roadmap priorities are debated publicly in our [GitHub Discussions](https://github.com/25-B-lend/reader/discussions) and tracked via open [GitHub Issues](https://github.com/25-B-lend/reader/issues).
 
